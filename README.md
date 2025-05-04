@@ -76,8 +76,7 @@ Just double-click on `index.html` or open it via any browser.
 
 ## 📸 Screenshots
 
-> Add screenshots of your portfolio website on desktop and mobile view here.
-
+![Image](https://github.com/user-attachments/assets/4872facb-018f-4209-a5d5-51924c10f82e)
 ---
 
 ## 💡 Learning Objectives
